@@ -67,6 +67,8 @@ Achievements
 ---
 Below are some suggested technical and design achievements. You can use these to help boost your grade up to an A and customize the assignment to your personal interests. These are recommended acheivements, but feel free to create/implement your own... just make sure you thoroughly describe what you did in your README and why it was challenging. ALL ACHIEVEMENTS MUST BE DESCRIBED IN YOUR README IN ORDER TO GET CREDIT FOR THEM.
 
+Note that if you want to load resources besides your index.html file (images, an CSS file, a JS file) you'll need to modify server.js to point to these. For now it's easiest to just hardcode paths to the resources, but we'll look at ways to optimize this shortly.
+
 *Technical*
 1. (max 5 points) Style your page using CSS. Each style rule you apply will get you 1 extra point for a maximum of 5 points. Be sure to describe your style rules in your README.
 2. (5 points) Add a simple JavaScript animation to the page.
