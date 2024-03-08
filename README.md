@@ -1,7 +1,7 @@
 Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Glitch
 ===
 
-*DUE: Thursday, August 31st by 11:59 AM (before the start of class!)*  
+*DUE: Sunday, March 17th by 11:59 PM*
 
 First assignment! You will deploy the starting Web site that you will use this term to [Glitch](http://www.glitch.com/). 
 
@@ -12,7 +12,7 @@ you'll need skills with these tools throughout the rest of the course.
 Assignment details
 ---
 
-This assignment requires that your website is both contained in a GitHub repository and hosted in Glitch. There are two ways to do this:
+This assignment requires that your website is both contained in a GitHub repository and hosted in Glitch. There are a few ways to do this:
 
 1. Fork this repo and clone it to your computer, make changes locally on your computer, push the repo onto GitHub, and then import your GitHub repo into Glitch.
 2. Fork this repo and then import it directly to Glitch, use the Glitch editor to make changes, and then export your repo from Glitch back to GitHub.
@@ -20,7 +20,7 @@ This assignment requires that your website is both contained in a GitHub reposit
 
 ## Option 1 - Clone to computer, push to Github, import to Glitch (recommended)
 
-1. Fork the starting project code in GitHub. This repo contains:
+1. Fork the starting assignment code in GitHub. This repo contains:
     * the server code, `server.js`
     * A starting `index.html` file that you will edit as described below
     * A package.json file that helps configure Glitch
@@ -34,12 +34,11 @@ This assignment requires that your website is both contained in a GitHub reposit
         * CSS
         * Java
         * JavaScript
-        * Ruby
         * Python
-        * unit testing
+        * Unit testing
+		* Refactoring code
 4. Complete some technical and/or design achievements (see below).
 5. Test your project to make sure that when someone goes to your main page, it displays correctly. You can do this locally by simply running `node server.js` from within the assignment directory.
-
 6. Modify the README file according to the specification below.
 7. Commit and push all your changes to GitHub. 
 8. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875)
@@ -61,13 +60,23 @@ If we can't find it, we can't grade it.
 By default Glitch often assigns your application a random name. To change it, click on the project dropdown menu in the upper left corner of Glitch. You will then see an additional text field displaying the project name in the resulting menu; click here to edit the name.
 
 The name scheme should be `a1-yourGitHubUsername`.
-The `a1` will need to be updated to `a2`, `a3`, and so on in future projects.
+The `a1` will need to be updated to `a2`, `a3`, and so on in future assignments.
 
-Achievements
+Rubric
 ---
-Below are some suggested technical and design achievements. You can use these to help boost your grade up to an A and customize the assignment to your personal interests. These are recommended acheivements, but feel free to create/implement your own... just make sure you thoroughly describe what you did in your README and why it was challenging. ALL ACHIEVEMENTS MUST BE DESCRIBED IN YOUR README IN ORDER TO GET CREDIT FOR THEM.
+For the Technical and Design sections, make sure you thoroughly describe in your README what you did why it was challenging. ALL ACHIEVEMENTS MUST BE DESCRIBED IN YOUR README IN ORDER TO GET CREDIT FOR THEM.
 
 Note that if you want to load resources besides your index.html file (images, an CSS file, a JS file) you'll need to modify server.js to point to these. For now it's easiest to just hardcode paths to the resources, but we'll look at ways to optimize this shortly.
+
+*Basic Requirements*
+(10 points each)
+0. Assignment has proper naming scheme
+1. Files forked from original repo
+2. `index.html` properly rendered
+3. `index.html` page properly edited
+4. All changes pushed to GitHub
+5. Project deployed to Glitch
+6. Pull Request submitted to original repo
 
 *Technical*
 1. (max 5 points) Style your page using CSS. Each style rule you apply will get you 1 extra point for a maximum of 5 points. Be sure to describe your style rules in your README.
@@ -81,7 +90,7 @@ Note that if you want to load resources besides your index.html file (images, an
 Resources
 ---
 
-If you need a JavaScript/HTML/CSS refresher, see [HTML & CSS](https://wpi.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9936730811904746&context=L&vid=01WPI_INST:Default&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,Jon%20Duckett&offset=0) and/or [JavaScript Codeacademy](https://www.codecademy.com/en/tracks/javascript).
+If you need a JavaScript/HTML/CSS refresher, see [HTML & CSS](https://learning.oreilly.com/library/view/responsive-web-design/9781803242712/) and/or [JavaScript Codeacademy](https://www.codecademy.com/en/tracks/javascript).
 
 If you need a Git/GitHub refreseher, see [GitHub Bootcamp](https://help.github.com/categories/bootcamp/), the [GitHub Guides](https://guides.github.com/) (especially the ones on Hello World, and Understanding the GitHub Flow, and Forking Projects), and [CodeSchool's Try Git Course](https://www.codeschool.com/courses/try-git).
 
