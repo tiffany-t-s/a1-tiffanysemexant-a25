@@ -21,12 +21,12 @@ This assignment requires that your website is both contained in a GitHub reposit
 ## Option 1 - Clone to computer, push to Github, import to Glitch (recommended)
 
 1. Fork the starting assignment code in GitHub. This repo contains:
-    * the server code, `server.js`
+    * The server code, `server.js`
     * A starting `index.html` file that you will edit as described below
     * A package.json file that helps configure Glitch
     * This README
 2. Edit `index.html` to show the following information about you:
-    * your name and class at WPI (e.g. class of 2020) Note: Do not put any contact or personal information that you do not potentially want other people outside of this class to see.
+    * your name and class at WPI (e.g. class of 2024) Note: Do not put any contact or personal information that you do not potentially want other people outside of this class to see.
     * your major(s) and minor(s)
     * previous computer science courses that you have taken at WPI
     * your experience with the following technologies and methods (none, some, a lot)
@@ -43,7 +43,7 @@ This assignment requires that your website is both contained in a GitHub reposit
 7. Commit and push all your changes to GitHub. 
 8. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875)
 9. Ensure that your project has the proper naming scheme (guide follows) so we can find it.
-9. Create and submit a Pull Request to the original repo.
+9. Create and submit a Pull Request to the original repo. This helps us find your project.
 
 ## Option 2 - Fork repo and import to Glitch, edit on Glitch, and then export back to GitHub
 Most of these steps are the same as option 1, except that you being by creating a new project Glitch using this repo as a staring point (just choose New Project > Import from GitHub for this and then paste in the link to your repo). At the end, you can export your Glitch project to GitHub by [following these instructions](https://www.youtube.com/watch?time_continue=77&v=aWJFbtrgW4E&feature=emb_logo). *Note that the location of the projecct export feature in Glitch has moved from what they show in this video.* It's now located in Tools > Import and Export (tools is located in the bottom left of the Glitch editor).
@@ -64,7 +64,7 @@ The `a1` will need to be updated to `a2`, `a3`, and so on in future assignments.
 
 Rubric
 ---
-For the Technical and Design sections, make sure you thoroughly describe in your README what you did why it was challenging. ALL ACHIEVEMENTS MUST BE DESCRIBED IN YOUR README IN ORDER TO GET CREDIT FOR THEM.
+For the Technical and Design achievements, make sure you thoroughly describe in your README what you did why it was challenging. ALL ACHIEVEMENTS MUST BE DESCRIBED IN YOUR README IN ORDER TO GET CREDIT FOR THEM. Remember that the success of Achievements hinges on how well you describe them in your README. Well formatted text, images, and concise and clear descriptions are helpful. You must include a Technical Achievements and Design Achievements section, even if none are attempted.
 
 Note that if you want to load resources besides your index.html file (images, an CSS file, a JS file) you'll need to modify server.js to point to these. For now it's easiest to just hardcode paths to the resources, but we'll look at ways to optimize this shortly.
 
@@ -78,32 +78,32 @@ Note that if you want to load resources besides your index.html file (images, an
 5. Project deployed to Glitch
 6. Pull Request submitted to original repo
 
-*Technical*
-1. (max 5 points) Style your page using CSS. Each style rule you apply will get you 1 extra point for a maximum of 5 points. Be sure to describe your style rules in your README.
+*Technical Achievements*
+1. (5 points) Style your page using CSS. Each style rule you apply will get you 1 point for a maximum of 5 points. Be sure to describe your style rules in your README.
 2. (5 points) Add a simple JavaScript animation to the page.
-3. (max 5 points) Experiment with other *semantic* HTML tags (links, images, tables, header, footer, etc.) Each extra tag you use will get you 1 extra point for a maximum of 5 points. Be sure to describe the tags you use in your README.
+3. (5 points) Experiment with other *semantic* HTML tags (links, images, tables, header, footer, etc.). Each extra tag you use will get you 1 point for a maximum of 5 points. Be sure to describe the tags you use in your README.
 
-*Design*
+*Design Achievements*
 1. (10 points) Create a color palette using [color.adobe.com](https://color.adobe.com). Use all the colors in the palette in your webpage by implementing the appropriate CSS. Add a small screenshot of the color wheel for your color palette to your repo.
 2. (5 points) Use a font from [Google Fonts](https://fonts.google.com) in your website.
 
 Resources
 ---
 
-If you need a JavaScript/HTML/CSS refresher, see [HTML & CSS](https://learning.oreilly.com/library/view/responsive-web-design/9781803242712/) and/or [JavaScript Codeacademy](https://www.codecademy.com/en/tracks/javascript).
+If you need a JavaScript/HTML/CSS refresher, see [HTML & CSS](https://learning.oreilly.com/library/view/responsive-web-design/9781803242712/) and/or [JavaScript Codecademy](https://www.codecademy.com/en/tracks/javascript).
 
 If you need a Git/GitHub refreseher, see [GitHub Bootcamp](https://help.github.com/categories/bootcamp/), the [GitHub Guides](https://guides.github.com/) (especially the ones on Hello World, and Understanding the GitHub Flow, and Forking Projects), and [CodeSchool's Try Git Course](https://www.codeschool.com/courses/try-git).
 
 Sample Readme (delete the above when you're ready to submit, and modify the text below with your links and descriptions)
 ---
 
-Charlie Roberts
-http://a1-charlieroberts.glitch.me
+Joshua Cuneo
+http://a1-joshuacuneo.glitch.me
 
 This project shows ...
 
 ## Technical Achievements
 - **Styled page with CSS**: Added rules for the p, li, and a selectors...
 
-### Design Achievements
+## Design Achievements
 - **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
