@@ -42,8 +42,8 @@ This assignment requires that your website is both contained in a GitHub reposit
 6. Modify the README file according to the specification below.
 7. Commit and push all your changes to GitHub. 
 8. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875). Note the following:
-		* You will need to create a Glitch account first, but Glitch makes it easy by giving you the option to log in via your GitHub account.
-		* The instructions in the medium.com post are slightly outdated. To import your GitHub repo, select `Import from GitHub` under `New Project`.
+	* You will need to create a Glitch account first, but Glitch makes it easy by giving you the option to log in via your GitHub account.
+	* The instructions in the medium.com post are slightly outdated. To import your GitHub repo, select `Import from GitHub` under `New Project`.
 9. Ensure that your project has the proper naming scheme (guide follows) so we can find it.
 9. Create and submit a Pull Request to the original repo. This helps us find your project.
 
