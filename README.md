@@ -69,14 +69,16 @@ For the Technical and Design achievements, make sure you thoroughly describe in 
 Note that if you want to load resources besides your index.html file (images, an CSS file, a JS file) you'll need to modify server.js to point to these. For now it's easiest to just hardcode paths to the resources, but we'll look at ways to optimize this shortly.
 
 *Basic Requirements*
+
 (10 points each)
-0. Assignment has proper naming scheme
-1. Files forked from original repo
-2. `index.html` properly rendered
-3. `index.html` page properly edited
-4. All changes pushed to GitHub
-5. Project deployed to Glitch
-6. Pull Request submitted to original repo
+
+1. Assignment has proper naming scheme
+2. Files forked from original repo
+3. `index.html` properly rendered
+4. `index.html` page properly edited
+5. All changes pushed to GitHub
+6. Project deployed to Glitch
+7. Pull Request submitted to original repo
 
 *Technical Achievements*
 1. (5 points) Style your page using CSS. Each style rule you apply will get you 1 point for a maximum of 5 points. Be sure to describe your style rules in your README.
