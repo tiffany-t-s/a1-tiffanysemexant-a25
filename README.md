@@ -20,7 +20,7 @@ This assignment requires that your website is both contained in a GitHub reposit
 
 ## Option 1 - Clone to computer, push to Github, import to Glitch (recommended)
 
-1. Fork the starting assignment code in GitHub. This repo contains:
+1. Fork the starting assignment code in GitHub. This repo contains the following:
     * The server code, `server.js`
     * A starting `index.html` file that you will edit as described below
     * A package.json file that helps configure Glitch
@@ -38,10 +38,12 @@ This assignment requires that your website is both contained in a GitHub reposit
         * Unit testing
 		* Refactoring code
 4. Complete some technical and/or design achievements (see below).
-5. Test your project to make sure that when someone goes to your main page, it displays correctly. You can do this locally by simply running `node server.js` from within the assignment directory.
+5. Test your project to make sure that when someone goes to your main page, it displays correctly. You can do this locally by simply running `node server.js` from within the assignment directory and then going to `localhost:3000` in your browser.
 6. Modify the README file according to the specification below.
 7. Commit and push all your changes to GitHub. 
-8. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875)
+8. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875). Note the following:
+		* You will need to create a Glitch account first, but Glitch makes it easy by giving you the option to log in via your GitHub account.
+		* The instructions in the medium.com post are slightly outdated. To import your GitHub repo, select `Import from GitHub` under `New Project`.
 9. Ensure that your project has the proper naming scheme (guide follows) so we can find it.
 9. Create and submit a Pull Request to the original repo. This helps us find your project.
 
@@ -59,7 +61,7 @@ If we can't find it, we can't grade it.
 
 By default Glitch often assigns your application a random name. To change it, click on the project dropdown menu in the upper left corner of Glitch. You will then see an additional text field displaying the project name in the resulting menu; click here to edit the name.
 
-The name scheme should be `a1-yourGitHubUsername`.
+The name scheme should be `a1-yourFirstAndLastName`.
 The `a1` will need to be updated to `a2`, `a3`, and so on in future assignments.
 
 Rubric
