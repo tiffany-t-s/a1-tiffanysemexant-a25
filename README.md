@@ -37,15 +37,17 @@ This assignment requires that your website is both contained in a GitHub reposit
         * Python
         * Unit testing
 		* Refactoring code
-4. Complete some technical and/or design achievements (see below).
-5. Test your project to make sure that when someone goes to your main page, it displays correctly. You can do this locally by simply running `node server.js` from within the assignment directory and then going to `localhost:3000` in your browser.
-6. Modify the README file according to the specification below.
-7. Commit and push all your changes to GitHub. 
-8. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875). Note the following:
+3. Complete some technical and/or design achievements (see below).
+4. Test your project to make sure that when someone goes to your main page, it displays correctly. You can do this locally by simply running `node server.js` from within the assignment directory and then going to `localhost:3000` in your browser.
+5. Modify the README file according to the specification below.
+6. Commit and push all your changes to GitHub. 
+7. Deploy your project to Glitch. You can do this by [importing the repo from GitHub](https://medium.com/glitch/import-code-from-anywhere-83fb60ea4875). Note the following:
 	* You will need to create a Glitch account first, but Glitch makes it easy by giving you the option to log in via your GitHub account.
 	* The instructions in the medium.com post are slightly outdated. To import your GitHub repo, select `Import from GitHub` under `New Project`.
-9. Ensure that your project has the proper naming scheme (guide follows) so we can find it.
+8. Ensure that your project has the proper naming scheme (guide follows) so we can find it.
 9. Create and submit a Pull Request to the original repo. This helps us find your project.
+	* Ignore any messages about conflicts. You do not need to resolve them.
+	* Make the title of your pull request "Pull Request for NAME" (ex. "Pull Request for Joshua Cuneo")
 
 ## Option 2 - Fork repo and import to Glitch, edit on Glitch, and then export back to GitHub
 Most of these steps are the same as option 1, except that you being by creating a new project Glitch using this repo as a staring point (just choose New Project > Import from GitHub for this and then paste in the link to your repo). At the end, you can export your Glitch project to GitHub by [following these instructions](https://www.youtube.com/watch?time_continue=77&v=aWJFbtrgW4E&feature=emb_logo). *Note that the location of the projecct export feature in Glitch has moved from what they show in this video.* It's now located in Tools > Import and Export (tools is located in the bottom left of the Glitch editor).
