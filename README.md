@@ -101,9 +101,8 @@ Note that if you want to load resources besides your index.html file (images, an
 Resources
 ---
 
-If you need a JavaScript/HTML/CSS refresher, see [HTML & CSS](https://learning.oreilly.com/library/view/responsive-web-design/9781803242712/) and/or [JavaScript Codecademy](https://www.codecademy.com/en/tracks/javascript).
+If you need refreshers for JavaScript/HTML/CSS or Git/GitHub, check out the resources posted on Canvas under Modules -> Resources.
 
-If you need a Git/GitHub refreseher, see [GitHub Bootcamp](https://help.github.com/categories/bootcamp/), the [GitHub Guides](https://guides.github.com/) (especially the ones on Hello World, and Understanding the GitHub Flow, and Forking Projects), and [CodeSchool's Try Git Course](https://www.codeschool.com/courses/try-git).
 
 Sample Readme (delete the above when you're ready to submit, and modify the text below with your links and descriptions)
 ---
