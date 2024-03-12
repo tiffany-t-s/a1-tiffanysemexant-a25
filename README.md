@@ -55,6 +55,9 @@ Most of these steps are the same as option 1, except that you being by creating 
 ## Option 3 - Clone to computer, edit locally, push to GitHub, upload to Glitch
 This is the same as option 1, except that for step 6 (Deploy to Glitch) you simply upload each file to your Glitch repository (using New File > Upload a File).
 
+## Note about alternative hosting
+Our use of Glitch in this class is there as a convenience for you. However, if you are already familiar with hosting through other services--or if you would like to self-host--that's perfectly fine so long as the website in question meets all of the assignment requirements. Note that we will not be able to help you if you run into issues on other hosting platforms, and you will be responsible for making sure the website stays up and running for the duration of the term. For A1, you will also still need to create a pull request with your name and your website's URL.
+
 Naming and URL Scheme
 ---
 
@@ -81,7 +84,7 @@ Note that if you want to load resources besides your index.html file (images, an
 3. `index.html` properly rendered
 4. `index.html` page properly edited
 5. All changes pushed to GitHub
-6. Project deployed to Glitch
+6. Project deployed to Glitch (or other hosting option)
 7. Pull Request submitted to original repo
 
 *Technical Achievements*
@@ -92,6 +95,8 @@ Note that if you want to load resources besides your index.html file (images, an
 *Design Achievements*
 1. (10 points) Create a color palette using [color.adobe.com](https://color.adobe.com). Use all the colors in the palette in your webpage by implementing the appropriate CSS. Add a small screenshot of the color wheel for your color palette to your repo.
 2. (5 points) Use a font from [Google Fonts](https://fonts.google.com) in your website.
+
+**NOTE:** There are additional color pallette and font options listed on Canvas under Modules -> Resources -> Color Pallettes and Fonts. You are welcome to use one of those instead. If you know of and would like to use any other resources that are not included, feel free to contact the instructor.
 
 Resources
 ---
