@@ -9,6 +9,8 @@ Treat this assignment as a chance to get up to speed on Git, GitHub, and Glitch,
 However, if you're new to them, spend several hours practicing, experimenting, and reading documentation. Don't just get your website up and done, as
 you'll need skills with these tools throughout the rest of the course.
 
+These instructions may be modified over time for purposes of clarification or to provide additional options. The requirements will NOT change. You can see any updates by looking at the commit history of this document in GitHub.
+
 Assignment details
 ---
 
